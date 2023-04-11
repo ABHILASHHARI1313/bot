@@ -1,3 +1,3 @@
 # bot
-A simple encouraging bot
-My first discord bot
+A simple encouraging bot. 
+My first discord bot.
