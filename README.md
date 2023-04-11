@@ -1,2 +1,3 @@
 # bot
-A repository for  bots
+A simple encouraging bot
+My first discord bot
